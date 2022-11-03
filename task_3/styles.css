@@ -1,0 +1,60 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  margin: 0;
+  text-align: left;
+  background-image: url('BG.jpeg');
+  background-size: cover;
+}
+.header{
+  background-color:#6747f7;
+  color: black;
+  text-align: left;
+}
+.navbar{
+  display: flex;
+  background-color:#6747f7;
+  justify-content: flex-end;
+}
+.navbar a{
+  color:black;
+  padding:14px 20px;
+  text-align: center;
+  text-decoration: none;
+}
+.tentang{
+  background-color: #6747f7:fit-content;
+}
+.kerja{
+  background-color: #6747f7;width:fit-content;
+}
+.tabel{
+  background-color:#6747f7;
+}
+.hub{
+  background-color: #6747f7;width:fit-content;
+  }
+.form{
+  background-color: #6747f7;
+  align-content: center;
+  width: 300px;
+  border-radius: 20px;
+  color: black;
+  padding: 10px;
+}
+.deskripsi{
+  display: flexbox;
+  background-color: #6747f7;width: fit-content;
+  border-radius: 10px;
+  padding: 14px 20px;
+}
+.nama{
+  border-radius: 10px;
+}
+.foot{
+  display: flexbox;
+  background-color: grey;
+  padding: 10px;
+  color: white;
+}
